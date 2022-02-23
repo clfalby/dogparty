@@ -1,0 +1,16 @@
+body{background-color: #99FAED;}
+h1{font-family: Helvetica; font-size: 50px; color: #BF22FA;}
+p{font-family: Helvetica; font-size: 24px; color: #591473;}
+.flickr {color: red; background-color: #99FAED;}
+.party {display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;}
+a{font-family: Helvetica; font-size: 24px; color: #591473; text-decoration: none;}
+a:hover{color: #F8EFFB;}
+img{border-style: dotted; border-width: 10px; border-color: #14FA0D;}
+ul{list-style-type: none; margin: 0; padding: 0;}
+li{float: left;}
+a {display: block;
+	padding: 8px;
+	background-color: white;}
